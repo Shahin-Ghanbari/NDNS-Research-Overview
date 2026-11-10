@@ -1,15 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="356" viewBox="0 0 800 356" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="386" viewBox="0 0 800 386" role="img" aria-labelledby="title description">
 <title id="title">Two studies of diet in UK children</title>
-<desc id="description">Two NDNS studies use different age ranges and designs. One compares dietary-weighted sugar intakes across survey periods. The other models nutrient associations with BMI-for-age.</desc>
+<desc id="description">NDNS provides data for two separate studies. Free Sugar compares weighted estimates from food diaries and Intake24 recalls in children aged 5–16. Sodium and BMI uses adjusted regression in children aged 4–18 from Years 1–9.</desc>
 <style>
 text{font-family:Arial,Helvetica,sans-serif}.label{fill:#145c55;font-size:12px;font-weight:700;letter-spacing:1px}.heading{fill:#132c3a;font-size:30px;font-weight:700}.card{fill:#132c3a;font-size:15px;font-weight:700}.body{fill:#304d5a;font-size:14px}
 </style>
 <defs><marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#347c76"/></marker></defs>
-<rect x="1" y="1" width="798" height="354" rx="17" fill="#f3f8f8" stroke="#afc9c7"/>
+<rect x="1" y="1" width="798" height="384" rx="17" fill="#f3f8f8" stroke="#afc9c7"/>
 <text x="32" y="37" class="label">NDNS  /  STUDY DESIGN</text>
 <text x="32" y="77" class="heading">Two studies of diet in UK children</text>
-<g fill="none" stroke="#347c76" stroke-width="2" marker-end="url(#arrow)"><path d="M249 219H274V157H297"/><path d="M249 219H274V280H297"/></g>
-<g transform="translate(32 165)"><rect width="216" height="108" rx="12" fill="#dcefeb" stroke="#afc9c7"/><text x="16" y="26" class="label">01 / DATA SOURCE</text><text x="16" y="56" class="card">NDNS dietary records</text><text x="16" y="80" class="body">UK children</text></g>
-<g transform="translate(302 106)"><rect width="466" height="104" rx="12" fill="#ffffff" stroke="#afc9c7"/><text x="16" y="26" class="label">02 / FREE SUGAR</text><text x="16" y="56" class="card">Compare sugar intakes</text><text x="16" y="80" class="body">Ages 5–16 across two survey periods</text><text x="16" y="98" class="body">Dietary-weighted estimates</text></g>
-<g transform="translate(302 228)"><rect width="466" height="104" rx="12" fill="#ffffff" stroke="#afc9c7"/><text x="16" y="26" class="label">03 / SODIUM &amp; BMI</text><text x="16" y="56" class="card">Assess nutrient associations</text><text x="16" y="80" class="body">Ages 4–18 in Years 1–9</text><text x="16" y="98" class="body">Adjusted models for BMI-for-age</text></g>
+<g fill="none" stroke="#347c76" stroke-width="2" marker-end="url(#arrow)"><path d="M250 230H276V168H305"/><path d="M250 230H276V301H305"/></g>
+<g transform="translate(32 176)">
+<rect width="216" height="108" rx="12" fill="#dcefeb" stroke="#afc9c7"/>
+<text x="16" y="25" class="label">DATA SOURCE</text>
+<text x="16" y="51" class="card">NDNS dietary records</text>
+<text x="16" y="75" class="body">UK children</text>
+</g>
+<g transform="translate(310 106)">
+<rect width="458" height="126" rx="12" fill="#fff" stroke="#afc9c7"/>
+<text x="16" y="25" class="label">FREE SUGAR</text>
+<text x="16" y="51" class="card">Compare dietary-weighted intakes</text>
+<text x="16" y="75" class="body">Ages 5–16 across two survey periods</text>
+<text x="16" y="93" class="body">Food diaries in Years 1–9</text>
+<text x="16" y="111" class="body">Intake24 recalls in Years 12–15</text>
+</g>
+<g transform="translate(310 248)">
+<rect width="458" height="108" rx="12" fill="#fff" stroke="#afc9c7"/>
+<text x="16" y="25" class="label">SODIUM &amp; BMI</text>
+<text x="16" y="51" class="card">Assess nutrient associations</text>
+<text x="16" y="75" class="body">Ages 4–18 in Years 1–9</text>
+<text x="16" y="93" class="body">Adjusted models for BMI-for-age</text>
+</g>
 </svg>
