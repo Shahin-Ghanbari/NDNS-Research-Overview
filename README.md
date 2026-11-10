@@ -2,7 +2,7 @@
 
 Two studies of what children in the UK eat and how dietary indicators relate to BMI-for-age, using the National Diet and Nutrition Survey (NDNS).
 
-![NDNS dietary records inform two studies. Free sugar, fructose and sucrose intakes are compared across survey periods. Nutrient indicators, including sodium, are assessed for cross-sectional associations with BMI-for-age.](research-workflow.svg)
+![Two NDNS studies use different age ranges and designs. One compares dietary-weighted sugar intakes across survey periods. The other models nutrient associations with BMI-for-age.](research-workflow.svg)
 
 ## Free sugar, fructose and sucrose
 
@@ -10,9 +10,9 @@ Two studies of what children in the UK eat and how dietary indicators relate to 
 
 | | |
 | --- | --- |
-| **Research question** | How did children's intakes of free sugar, fructose and sucrose differ between the two survey periods? |
-| **Data** | Dietary records for children from two NDNS rolling programme periods. |
-| **Method** | Compare dietary-weighted intake estimates overall and by age and sex. Report free sugar in grams per day and as a percentage of total energy. |
+| **Research question** | How did dietary-weighted free sugar, fructose and sucrose intakes differ between the two NDNS periods among children aged 5–16? |
+| **Data** | NDNS Years 1–9 used food diaries and day-average estimates. Years 12–15 used Intake24 recalls and usual-intake estimates. |
+| **Method** | Compare weighted estimates overall and by age and sex. Report free sugar in grams per day and as a percentage of total energy. Interpret the comparison in light of the different assessment and estimation methods. |
 
 ## Nutrient indicators and BMI-for-age
 
@@ -21,8 +21,8 @@ Two studies of what children in the UK eat and how dietary indicators relate to 
 
 | | |
 | --- | --- |
-| **Research question** | How are nutrient-level dietary indicators, including sodium intake, associated with BMI-for-age in UK children? |
-| **Data** | NDNS dietary and anthropometric records for UK children. |
-| **Method** | Use BMI-for-age standard deviation scores as the primary outcome and estimate cross-sectional associations with nutrient indicators. |
+| **Research question** | How are nutrient indicators, including sodium, associated with BMI-for-age in UK children? |
+| **Data** | Dietary and anthropometric records for children aged 4–18 from NDNS Years 1–9. |
+| **Method** | Fit regression models for age- and sex-standardised BMI-for-age scores, adjusting for age, sex, total energy intake and survey year. Compare weighted and unweighted estimates and alternative model specifications. |
 
 [Back to the research portfolio](https://github.com/Shahin-Ghanbari#featured-research)
