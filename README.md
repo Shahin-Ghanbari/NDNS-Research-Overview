@@ -2,7 +2,7 @@
 
 Two studies of what children in the UK eat and how dietary indicators relate to BMI-for-age, using the National Diet and Nutrition Survey (NDNS).
 
-![Two NDNS studies use different age ranges and designs. One compares dietary-weighted sugar intakes across survey periods. The other models nutrient associations with BMI-for-age.](research-workflow.svg)
+![NDNS provides data for two separate studies. Free Sugar compares weighted estimates from food diaries and Intake24 recalls in children aged 5–16. Sodium and BMI uses adjusted regression in children aged 4–18 from Years 1–9.](research-workflow.svg)
 
 ## Free sugar, fructose and sucrose
 
