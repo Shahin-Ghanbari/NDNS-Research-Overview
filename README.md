@@ -25,4 +25,8 @@ Two studies of what children in the UK eat and how dietary indicators relate to 
 | **Data** | Dietary and anthropometric records for children aged 4–18 from NDNS Years 1–9. |
 | **Method** | Fit regression models for age- and sex-standardised BMI-for-age scores, adjusting for age, sex, total energy intake and survey year. Compare weighted and unweighted estimates and alternative model specifications. |
 
+## What you can explore
+
+The study diagram shows how the two NDNS analyses use different age ranges, study designs and methods.
+
 [Back to the research portfolio](https://github.com/Shahin-Ghanbari#featured-research)
